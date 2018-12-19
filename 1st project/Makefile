@@ -1,6 +1,3 @@
-# Makefile, versao 2
-# Sistemas Operativos, DEI/IST/ULisboa 2017-18
-
 CFLAGS= -g -Wall -pedantic 
 CC=gcc
 

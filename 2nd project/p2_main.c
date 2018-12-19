@@ -1,8 +1,3 @@
-/*
-// Projeto SO - exercicio 1, versao 2
-// Sistemas Operativos, DEI/IST/ULisboa 2017-18
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>

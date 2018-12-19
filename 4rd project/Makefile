@@ -1,6 +1,3 @@
-# Makefile, versao 3
-# Sistemas Operativos, DEI/IST/ULisboa 2017-18
-
 CC       = gcc
 CFLAGS   = -g -std=gnu99 -Wall -pedantic -pthread
 
